@@ -1,0 +1,91 @@
+﻿<!--indicamos el modelo por el cual vamos a trabajar-->
+@model BlogCore.Models.Slider
+
+@{
+    ViewData["Title"] = "Editar slider";
+}
+
+<br />
+<br />
+<br />
+<h3 class="text-center"> Editar nueva SLIDER</h3>
+<form method="POST" asp-action="Edit" enctype="multipart/form-data">
+    <input type="hidden" asp-for="Id" /> 
+    <div class="row px-2 offset-1 border">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="col-8 mt-4">
+            <div class="form-group row">
+                <div class="col-4">
+                    <label class="col-8">
+                        <label asp-for="Nombre"></label>
+                    </label>
+                </div>
+                <br />
+                <br />
+                <div class="col-8">
+                    <input asp-for="Nombre" class="form-control" placeholder=" Ingrese el nombre de la categoria" style="border-radius:5px; border:1px solid #05EBFA" />
+                    <span asp-validation-for="Nombre" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row mt-2">
+                <div class="col-4">
+                    <label class="col-6">
+                        <label asp-for="Estado"></label>
+                    </label>
+                </div>
+                <br />
+                <br />
+
+                <div class="col-8">
+                    <input asp-for="Estado" />
+                    <span asp-validation-for="Estado" class="text-danger" ></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="UrlImagen"></label>
+                </div>
+                <div class="col-8">
+                    <input type="file" name="archivos" id="subidaArchivo" class="form-control" />
+                    <span asp-validation-for="UrlImagen" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row mt-3" >
+                <div class="col">
+                    <!--MODIFUICAMOS EL BOTON-->
+                    <button type="submit" class="btn btn-success form-control" asp-route-id="@Model.Id">Actualizar</button>
+                </div>
+                <div class="col">
+                    <a asp-action="Index" class="btn btn-primary form-control">Volver a lista</a>
+                </div>
+            </div>
+        </div>
+        <!-- PARA MOSTAR LA IMAGEN-->
+        <div class="col-4 pt-3">
+            <img src="@Model.UrlImagen" width="100%" style="border-radius:5px; border:3px solid #05EBFA" />
+
+        </div>
+    </div>
+</form>
+
+
+<!--para ponr la barra de opciones-->
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script src="https://cdn.tiny.cloud/1/qukxrn62f4bz0iv6z7enaelkkzuzugir28y709xit9xm659s/tinymce/5/tinymce.min.js"></script>"
+    <script>
+        tinymce.init({
+            selector: 'textarea',
+            plugins: 'lists',
+            menubar: 'file edit format'
+        })
+    </script>
+}
+
+

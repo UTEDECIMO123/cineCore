@@ -1,0 +1,37 @@
+﻿@model BlogCore.Models.ViewModels.HomeVM
+
+
+
+
+<div class="row fondoTitulo mt-12">
+    <div class="col-sm-12">
+        <h1 class="text-center text-black bg-success py-1">Lista de sayayines</h1>
+    </div>
+</div>
+
+<!--VALIDAMOS Y VAMMOS MOSTRANDO LOS ARTCULOS QY¿UE TENEMOS-->
+@if (Model.ListaArticulos.Count() > 0)
+{
+    <hr />
+    <div class="row">
+        @foreach(var articulo in Model.ListaArticulos.OrderBy(o => o.Id))
+        {
+            <div class="col-4">
+                <div class="card" style="object-fit:contain">
+                    <img src="@articulo.UrlImagen"  width="100%" >
+                    <div class="card-body">
+                        <h5 class="text-center">@articulo.Nombre</h5>
+                    <a asp-action="Details" class="btn btn-success" style="border-radius:2px" asp-route-id="@articulo.Id">Mas Informacion</a>
+                        
+                    </div>
+                </div>
+
+            </div>
+        }
+
+    </div>
+}
+else
+{
+    <p>No ahi articulos</p>
+}

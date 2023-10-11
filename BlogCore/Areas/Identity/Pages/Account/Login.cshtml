@@ -1,0 +1,112 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Acceso de usuarios";
+}
+
+<h1 class="text-center">@ViewData["Title"]</h1>
+<div class="container">
+    <div class="row justify-content-center mt-5">
+        <div class="col-md-6">
+            <section>
+                <h2 class="text-center">Iniciar sesión con una cuenta local</h2>
+                <hr />
+                <form id="account" method="post">
+                    <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+                    <div class="mb-3">
+                        <label for="inputEmail" class="form-label">Email</label>
+                        <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                        <span asp-validation-for="Input.Email" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label for="inputPassword" class="form-label">Contraseña</label>
+                        <input asp-for="Input.Password" class="form-control" autocomplete="current-password" aria-required="true" placeholder="password" />
+                        <span asp-validation-for="Input.Password" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <button id="login-submit" type="submit" class="w-100 btn btn-primary">Acceder</button>
+                    </div>
+                </form>
+                <div class="text-center">
+                    <p>No tienes cuenta? <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Regístrate aquí</a></p>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+
+
+<!--
+
+
+<head>
+<style>
+    body {
+        background-color: #121212; /* Color de fondo oscuro */
+        color: #fff; /* Texto en blanco */
+    }
+
+    .form-control {
+        background-color: #2c2c2c; /* Color de fondo del campo de entrada */
+        border-color: #333; /* Color del borde del campo de entrada */
+        color: #fff; /* Texto en blanco en el campo de entrada */
+    }
+
+        .form-control:focus {
+            background-color: #333; /* Color de fondo cuando el campo de entrada está enfocado */
+            border-color: #555; /* Color del borde cuando el campo de entrada está enfocado */
+        }
+
+    .btn-primary {
+        background-color: #007bff; /* Color de fondo del botón principal */
+        border-color: #007bff; /* Color del borde del botón principal */
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3; /* Color de fondo cuando el botón principal se coloca */
+            border-color: #0056b3; /* Color del borde cuando el botón principal se coloca */
+        }
+</style>
+</head>
+<body>
+
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-6 offset-md-3">
+                <section>
+                    <form id="account" method="post">
+                        <h1 class="text-center">Acceso de usuarios</h1>
+                        <hr />
+                        <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+                        <div class="form-floating mb-3">
+                            <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                            <label asp-for="Input.Email">Email</label>
+                            <span asp-validation-for="Input.Email" class="text-danger"></span>
+                        </div>
+                        <div class="form-floating mb-3">
+                            <input asp-for="Input.Password" class="form-control" autocomplete="current-password" aria-required="true" placeholder="password" />
+                            <label asp-for="Input.Password">Password</label>
+                            <span asp-validation-for="Input.Password" class="text-danger"></span>
+                        </div>
+
+                        <div>
+                            <button id="login-submit" type="submit" class="w-100 btn btn-lg btn-primary">Acceder</button>
+                        </div>
+                        <div>
+                            <p class="mt-3">
+                                <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">¿No tienes cuenta? Regístrate aquí</a>
+                            </p>
+                        </div>
+                    </form>
+                </section>
+            </div>
+        </div>
+    </div>
+
+</body>
+-->
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
