@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Activo-0103\\Desktop\\apps_net7\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj": {}
+    "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Activo-0103\\Desktop\\apps_net7\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Activo-0103\\Desktop\\apps_net7\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj",
         "projectName": "BlogCore.Models",
-        "projectPath": "C:\\Users\\Activo-0103\\Desktop\\apps_net7\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj",
-        "packagesPath": "C:\\Users\\Activo-0103\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Activo-0103\\Desktop\\apps_net7\\BlogCore\\BlogCore.Models\\obj\\",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.Models\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Activo-0103\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

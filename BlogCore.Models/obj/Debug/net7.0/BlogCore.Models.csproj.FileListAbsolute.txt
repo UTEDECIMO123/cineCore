@@ -10,3 +10,15 @@ C:\Users\Activo-0103\Desktop\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0
 C:\Users\Activo-0103\Desktop\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\refint\BlogCore.Models.dll
 C:\Users\Activo-0103\Desktop\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.pdb
 C:\Users\Activo-0103\Desktop\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\ref\BlogCore.Models.dll
+C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.Models\bin\Debug\net7.0\BlogCore.Models.deps.json
+C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.Models\bin\Debug\net7.0\BlogCore.Models.dll
+C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.Models\bin\Debug\net7.0\BlogCore.Models.pdb
+C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.dll
+C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.Models\obj\Debug\net7.0\refint\BlogCore.Models.dll
+C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.pdb
+C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.Models\obj\Debug\net7.0\ref\BlogCore.Models.dll
