@@ -22,3 +22,15 @@ C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCo
 C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.Models\obj\Debug\net7.0\refint\BlogCore.Models.dll
 C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.pdb
 C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.Models\obj\Debug\net7.0\ref\BlogCore.Models.dll
+C:\Users\arian\OneDrive\Documentos\4\cineCore\BlogCore.Models\bin\Debug\net7.0\BlogCore.Models.deps.json
+C:\Users\arian\OneDrive\Documentos\4\cineCore\BlogCore.Models\bin\Debug\net7.0\BlogCore.Models.dll
+C:\Users\arian\OneDrive\Documentos\4\cineCore\BlogCore.Models\bin\Debug\net7.0\BlogCore.Models.pdb
+C:\Users\arian\OneDrive\Documentos\4\cineCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.csproj.AssemblyReference.cache
+C:\Users\arian\OneDrive\Documentos\4\cineCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arian\OneDrive\Documentos\4\cineCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.AssemblyInfoInputs.cache
+C:\Users\arian\OneDrive\Documentos\4\cineCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.AssemblyInfo.cs
+C:\Users\arian\OneDrive\Documentos\4\cineCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.csproj.CoreCompileInputs.cache
+C:\Users\arian\OneDrive\Documentos\4\cineCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.dll
+C:\Users\arian\OneDrive\Documentos\4\cineCore\BlogCore.Models\obj\Debug\net7.0\refint\BlogCore.Models.dll
+C:\Users\arian\OneDrive\Documentos\4\cineCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.pdb
+C:\Users\arian\OneDrive\Documentos\4\cineCore\BlogCore.Models\obj\Debug\net7.0\ref\BlogCore.Models.dll

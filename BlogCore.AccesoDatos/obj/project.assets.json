@@ -8722,19 +8722,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+    "C:\\Users\\arian\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj",
+      "projectUniqueName": "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj",
       "projectName": "BlogCore.AccesoDatos",
-      "projectPath": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj",
-      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.AccesoDatos\\obj\\",
+      "projectPath": "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj",
+      "packagesPath": "C:\\Users\\arian\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore.AccesoDatos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\arian\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8748,11 +8748,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj"
+            "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore.Models\\BlogCore.Models.csproj": {
+              "projectPath": "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore.Models\\BlogCore.Models.csproj"
             },
-            "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj"
+            "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj": {
+              "projectPath": "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj"
             }
           }
         }
@@ -8806,7 +8806,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   },

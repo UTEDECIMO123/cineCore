@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj": {}
+    "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj": {
+    "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
+        "projectUniqueName": "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
         "projectName": "BlogCore.Utilidades",
-        "projectPath": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.Utilidades\\obj\\",
+        "projectPath": "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
+        "packagesPath": "C:\\Users\\arian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\arian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
