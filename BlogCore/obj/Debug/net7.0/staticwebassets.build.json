@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hM+42tJXZQItA8JMqBAcpOWf83wOxjcvUiIEWgJ+GdI=",
+  "Hash": "3Of4QmzNHMnrxrFtTnMN6IvBXzdUju3R+IuAyp/F+G4=",
   "Source": "BlogCore",
   "BasePath": "_content/BlogCore",
   "Mode": "Default",
@@ -1105,6 +1105,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\2bc2bb0b-ca0b-4648-9f18-80e12ee27647.jpg",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "imagenes/articulos/2bc2bb0b-ca0b-4648-9f18-80e12ee27647.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\2bc2bb0b-ca0b-4648-9f18-80e12ee27647.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\535667ea-f6b0-4678-b100-c69fce35712b.jpg",
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
@@ -1273,6 +1290,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\6548b990-0659-4827-b43e-cc394cae1a75.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\688b564c-af19-469f-9d46-642ac4bc184e.jpg",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "imagenes/sliders/688b564c-af19-469f-9d46-642ac4bc184e.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\688b564c-af19-469f-9d46-642ac4bc184e.jpg"
     },
     {
       "Identity": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\8f78e558-c595-45c8-b363-2939f3b6aa80.jpg",
