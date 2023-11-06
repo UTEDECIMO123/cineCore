@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj": {}
+    "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj": {
+    "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj",
+        "projectUniqueName": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj",
         "projectName": "BlogCore.AccesoDatos",
-        "projectPath": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.AccesoDatos\\obj\\",
+        "projectPath": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj",
+        "packagesPath": "C:\\Users\\Jesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore.AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,17 +26,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj"
+              "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore.Models\\BlogCore.Models.csproj": {
+                "projectPath": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore.Models\\BlogCore.Models.csproj"
               },
-              "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj"
+              "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj": {
+                "projectPath": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj"
               }
             }
           }
@@ -86,21 +91,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj": {
+    "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore.Models\\BlogCore.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore.Models\\BlogCore.Models.csproj",
         "projectName": "BlogCore.Models",
-        "projectPath": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.Models\\obj\\",
+        "projectPath": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore.Models\\BlogCore.Models.csproj",
+        "packagesPath": "C:\\Users\\Jesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore.Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -108,6 +117,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -155,21 +165,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj": {
+    "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
+        "projectUniqueName": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
         "projectName": "BlogCore.Utilidades",
-        "projectPath": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Desktop\\proyecto\\BlogCore\\BlogCore.Utilidades\\obj\\",
+        "projectPath": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
+        "packagesPath": "C:\\Users\\Jesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -177,6 +191,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -210,7 +225,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
