@@ -7039,19 +7039,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\arian\\.nuget\\packages\\": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore.Models\\BlogCore.Models.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\Final\\cineCore\\BlogCore.Models\\BlogCore.Models.csproj",
       "projectName": "BlogCore.Models",
-      "projectPath": "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore.Models\\BlogCore.Models.csproj",
-      "packagesPath": "C:\\Users\\arian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore.Models\\obj\\",
+      "projectPath": "C:\\Users\\admin\\Desktop\\Final\\cineCore\\BlogCore.Models\\BlogCore.Models.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\Final\\cineCore\\BlogCore.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\arian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7106,7 +7106,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   },
