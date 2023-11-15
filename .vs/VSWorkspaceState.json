@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BlogCore",
+    "\\BlogCore\\Areas",
+    "\\BlogCore\\Areas\\Admin",
+    "\\BlogCore\\Areas\\Admin\\Views",
+    "\\BlogCore\\Areas\\Cliente",
+    "\\BlogCore\\Areas\\Cliente\\Views",
+    "\\BlogCore\\Views"
+  ],
+  "SelectedNode": "\\BlogCore\\Areas\\Cliente\\Views\\Home",
+  "PreviewInSolutionExplorer": false
+}

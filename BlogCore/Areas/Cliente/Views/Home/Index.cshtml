@@ -14,15 +14,18 @@
 {
     <hr />
     <div class="row">
-        @foreach(var articulo in Model.ListaArticulos.OrderBy(o => o.Id))
+        @foreach (var articulo in Model.ListaArticulos.OrderBy(o => o.Id))
         {
             <div class="col-4">
                 <div class="card" style="object-fit:contain">
-                    <img src="@articulo.UrlImagen"  width="100" >
                     <div class="card-body">
-                        <h5 class="text-center">@articulo.Nombre</h5>
-                    <a asp-action="Details" class="btn btn-success" style="border-radius:2px" asp-route-id="@articulo.Id">Mas Informacion</a>
-                        
+                        <img src="@articulo.UrlImagen" class="rounded" width="100%">
+                        <h5 class="text-center m-0 mt-3">@articulo.Nombre</h5>
+
+                    </div>
+                    <div class="card-footer">
+                        <a asp-action="Details" class="btn btn-success w-100" style="border-radius:2px" asp-route-id="@articulo.Id">Mas Informacion</a>
+
                     </div>
                 </div>
 

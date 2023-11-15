@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VhyXARRzdD7NIKDVjwNun39oSLIz2Fc7xrcNYH5JR+H3ehCgiDb5S5s4WBNKBCwmUg+fCYnwi4LUAuKPIC0YMQ==",
+  "dgSpecHash": "Jl+FkrYFjWzU9/qLgIeTbQ98hdfMbj45V7Khcp3m3B3B+PN7LWNRGsgjQXgGfQYEcqV2+PlLbvcH0p9GeXxMgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\Final\\cineCore\\BlogCore.Models\\BlogCore.Models.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\Final_2.0\\cineCore\\BlogCore.Models\\BlogCore.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.9\\microsoft.aspnet.mvc.5.2.9.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.9\\microsoft.aspnet.razor.3.2.9.nupkg.sha512",
