@@ -14,6 +14,7 @@
 {
     <hr />
     <div class="row row-cols-1 row-cols-md-4 g-4 py-6S">
+<<<<<<< HEAD
         @foreach (var articulo in Model.ListaArticulos.OrderBy(o => o.Id))
         {
             <div class="card-deck col-sm-3 ">
@@ -29,6 +30,23 @@
 
                         </div>
 
+=======
+        @foreach(var articulo in Model.ListaArticulos.OrderBy(o => o.Id))
+        {
+            <div class="card-deck col-sm-3 ">
+                <div class="card contenedorImg" >
+                    <picture>
+                        <img src="@articulo.UrlImagen" class="imgP card-img-top img-fluid" >
+                        </picture>
+                    <div class="card-body">
+                        <h5 class="text-center">@articulo.Nombre</h5>
+                    <div>
+
+                        <a asp-action="Details" class="btn btn-outline-primary btnInf " style="border-radius:2px" asp-route-id="@articulo.Id">Mas Informacion</a>
+                       
+                    </div>
+                        
+>>>>>>> 192659af8eab27daf4637d9d68efdcd513e97dca
                     </div>
                 </div>
 
@@ -36,6 +54,8 @@
         }
 
     </div>
+
+
 }
 else
 {

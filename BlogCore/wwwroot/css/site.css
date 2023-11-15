@@ -36,6 +36,55 @@ body {
     padding: 0.75rem 1rem;
 }
 
+    .col-sm-3 {
+    
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        grid-gap: 2em;
+    }
+
+ /* border - card */
+    .contenedorImg {
+        background-color: #fff;
+        border-radius: 10px;
+        box-shadow: 3px 3px 3px rgba(108, 158, 250);
+        transition: transform 0.3s ease;
+    }
+    /* estilos - cursor sobre ella*/
+    .contenedorImg:hover {
+        transform: scale(1.05);
+    }
+
+/*4 card*/
+    .contenedorImg {
+        display: block;
+        border-radius: 8px 8px 0 0;
+        width: 100%;
+        aspect-ratio: 4/3;
+        object-fit: cover;
+        object-position: 50% 50%;
+    }
+
+
+    .contenedorImg h5 {
+        font-size: 1.6rem;
+        color: #4682B4;
+        font-weight: 700;
+        margin-top: 5px;
+        margin-bottom: 10px;
+    }
+
+    .imgP {
+        /*min-height: 400px;*/
+        max-height: 300px;
+    }
+
+
+
+
+
+
+
 
 .login {
     min-height: 100vh;

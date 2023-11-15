@@ -20,6 +20,7 @@ C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.Utilidades\obj\Debug\net7.0\Bl
 C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.Utilidades\obj\Debug\net7.0\refint\BlogCore.Utilidades.dll
 C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.pdb
 C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.Utilidades\obj\Debug\net7.0\ref\BlogCore.Utilidades.dll
+<<<<<<< HEAD
 C:\Users\arian\OneDrive\Documentos\4\cineCore\BlogCore.Utilidades\bin\Debug\net7.0\BlogCore.Utilidades.deps.json
 C:\Users\arian\OneDrive\Documentos\4\cineCore\BlogCore.Utilidades\bin\Debug\net7.0\BlogCore.Utilidades.dll
 C:\Users\arian\OneDrive\Documentos\4\cineCore\BlogCore.Utilidades\bin\Debug\net7.0\BlogCore.Utilidades.pdb
@@ -54,6 +55,20 @@ C:\Users\admin\Desktop\Final_2.0\cineCore\BlogCore.Utilidades\obj\Debug\net7.0\B
 C:\Users\admin\Desktop\Final_2.0\cineCore\BlogCore.Utilidades\obj\Debug\net7.0\refint\BlogCore.Utilidades.dll
 C:\Users\admin\Desktop\Final_2.0\cineCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.pdb
 C:\Users\admin\Desktop\Final_2.0\cineCore\BlogCore.Utilidades\obj\Debug\net7.0\ref\BlogCore.Utilidades.dll
+=======
+C:\Users\Jesus\Desktop\cineCore\BlogCore.Utilidades\bin\Debug\net7.0\BlogCore.Utilidades.deps.json
+C:\Users\Jesus\Desktop\cineCore\BlogCore.Utilidades\bin\Debug\net7.0\BlogCore.Utilidades.dll
+C:\Users\Jesus\Desktop\cineCore\BlogCore.Utilidades\bin\Debug\net7.0\BlogCore.Utilidades.pdb
+C:\Users\Jesus\Desktop\cineCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.csproj.AssemblyReference.cache
+C:\Users\Jesus\Desktop\cineCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus\Desktop\cineCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.AssemblyInfoInputs.cache
+C:\Users\Jesus\Desktop\cineCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.AssemblyInfo.cs
+C:\Users\Jesus\Desktop\cineCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Desktop\cineCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.dll
+C:\Users\Jesus\Desktop\cineCore\BlogCore.Utilidades\obj\Debug\net7.0\refint\BlogCore.Utilidades.dll
+C:\Users\Jesus\Desktop\cineCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.pdb
+C:\Users\Jesus\Desktop\cineCore\BlogCore.Utilidades\obj\Debug\net7.0\ref\BlogCore.Utilidades.dll
+>>>>>>> 192659af8eab27daf4637d9d68efdcd513e97dca
 C:\Users\enrik\Desktop\cineCore\BlogCore.Utilidades\bin\Debug\net7.0\BlogCore.Utilidades.deps.json
 C:\Users\enrik\Desktop\cineCore\BlogCore.Utilidades\bin\Debug\net7.0\BlogCore.Utilidades.dll
 C:\Users\enrik\Desktop\cineCore\BlogCore.Utilidades\bin\Debug\net7.0\BlogCore.Utilidades.pdb

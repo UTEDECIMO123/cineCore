@@ -22,6 +22,7 @@ C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCo
 C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.Models\obj\Debug\net7.0\refint\BlogCore.Models.dll
 C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.pdb
 C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.Models\obj\Debug\net7.0\ref\BlogCore.Models.dll
+<<<<<<< HEAD
 C:\Users\arian\OneDrive\Documentos\4\cineCore\BlogCore.Models\bin\Debug\net7.0\BlogCore.Models.deps.json
 C:\Users\arian\OneDrive\Documentos\4\cineCore\BlogCore.Models\bin\Debug\net7.0\BlogCore.Models.dll
 C:\Users\arian\OneDrive\Documentos\4\cineCore\BlogCore.Models\bin\Debug\net7.0\BlogCore.Models.pdb
@@ -58,6 +59,20 @@ C:\Users\admin\Desktop\Final_2.0\cineCore\BlogCore.Models\obj\Debug\net7.0\BlogC
 C:\Users\admin\Desktop\Final_2.0\cineCore\BlogCore.Models\obj\Debug\net7.0\refint\BlogCore.Models.dll
 C:\Users\admin\Desktop\Final_2.0\cineCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.pdb
 C:\Users\admin\Desktop\Final_2.0\cineCore\BlogCore.Models\obj\Debug\net7.0\ref\BlogCore.Models.dll
+=======
+C:\Users\Jesus\Desktop\cineCore\BlogCore.Models\bin\Debug\net7.0\BlogCore.Models.deps.json
+C:\Users\Jesus\Desktop\cineCore\BlogCore.Models\bin\Debug\net7.0\BlogCore.Models.dll
+C:\Users\Jesus\Desktop\cineCore\BlogCore.Models\bin\Debug\net7.0\BlogCore.Models.pdb
+C:\Users\Jesus\Desktop\cineCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.csproj.AssemblyReference.cache
+C:\Users\Jesus\Desktop\cineCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus\Desktop\cineCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.AssemblyInfoInputs.cache
+C:\Users\Jesus\Desktop\cineCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.AssemblyInfo.cs
+C:\Users\Jesus\Desktop\cineCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Desktop\cineCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.dll
+C:\Users\Jesus\Desktop\cineCore\BlogCore.Models\obj\Debug\net7.0\refint\BlogCore.Models.dll
+C:\Users\Jesus\Desktop\cineCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.pdb
+C:\Users\Jesus\Desktop\cineCore\BlogCore.Models\obj\Debug\net7.0\ref\BlogCore.Models.dll
+>>>>>>> 192659af8eab27daf4637d9d68efdcd513e97dca
 C:\Users\enrik\Desktop\cineCore\BlogCore.Models\bin\Debug\net7.0\BlogCore.Models.deps.json
 C:\Users\enrik\Desktop\cineCore\BlogCore.Models\bin\Debug\net7.0\BlogCore.Models.dll
 C:\Users\enrik\Desktop\cineCore\BlogCore.Models\bin\Debug\net7.0\BlogCore.Models.pdb

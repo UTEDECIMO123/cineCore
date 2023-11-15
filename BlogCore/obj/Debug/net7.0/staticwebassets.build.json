@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "ebEBNkL+yLvTSMOGZTwwQ8ITqFyuXq9zri+kGwP7ENc=",
+=======
+  "Hash": "YfiUkSGWIpt/ZeRgV000ZhTmXUUnAUK0ru9c882YKpI=",
+>>>>>>> 192659af8eab27daf4637d9d68efdcd513e97dca
   "Source": "BlogCore",
   "BasePath": "_content/BlogCore",
   "Mode": "Default",
@@ -1088,6 +1092,7 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\favicon.ico",
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
@@ -1109,6 +1114,12 @@
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\2bc2bb0b-ca0b-4648-9f18-80e12ee27647.jpg",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
+>>>>>>> 192659af8eab27daf4637d9d68efdcd513e97dca
       "BasePath": "_content/BlogCore",
       "RelativePath": "imagenes/articulos/2bc2bb0b-ca0b-4648-9f18-80e12ee27647.jpg",
       "AssetKind": "All",
@@ -1122,10 +1133,34 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\2bc2bb0b-ca0b-4648-9f18-80e12ee27647.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\535667ea-f6b0-4678-b100-c69fce35712b.jpg",
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\2c840029-0a0e-4bb4-b231-f3cd050979c2.jpg",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "imagenes/articulos/2c840029-0a0e-4bb4-b231-f3cd050979c2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\2c840029-0a0e-4bb4-b231-f3cd050979c2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\535667ea-f6b0-4678-b100-c69fce35712b.jpg",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
+>>>>>>> 192659af8eab27daf4637d9d68efdcd513e97dca
       "BasePath": "_content/BlogCore",
       "RelativePath": "imagenes/articulos/535667ea-f6b0-4678-b100-c69fce35712b.jpg",
       "AssetKind": "All",
@@ -1139,10 +1174,34 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\535667ea-f6b0-4678-b100-c69fce35712b.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\7735302b-2126-4b85-841b-a936d30d3262.jpg",
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\5f0809a7-7b9c-47fe-bff4-c379d3371425.jpg",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "imagenes/articulos/5f0809a7-7b9c-47fe-bff4-c379d3371425.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\5f0809a7-7b9c-47fe-bff4-c379d3371425.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\7735302b-2126-4b85-841b-a936d30d3262.jpg",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
+>>>>>>> 192659af8eab27daf4637d9d68efdcd513e97dca
       "BasePath": "_content/BlogCore",
       "RelativePath": "imagenes/articulos/7735302b-2126-4b85-841b-a936d30d3262.jpg",
       "AssetKind": "All",
@@ -1173,10 +1232,34 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\78a74fb4-2442-4d10-8dd0-6f5deb8542f1.jpeg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\93aec3a9-fb96-4af2-bb9b-ede908b1886f.jpeg",
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\853afd07-64d0-4918-a4e7-e4ae3721ee05.jpg",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "imagenes/articulos/853afd07-64d0-4918-a4e7-e4ae3721ee05.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\853afd07-64d0-4918-a4e7-e4ae3721ee05.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\93aec3a9-fb96-4af2-bb9b-ede908b1886f.jpeg",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
+>>>>>>> 192659af8eab27daf4637d9d68efdcd513e97dca
       "BasePath": "_content/BlogCore",
       "RelativePath": "imagenes/articulos/93aec3a9-fb96-4af2-bb9b-ede908b1886f.jpeg",
       "AssetKind": "All",
@@ -1224,6 +1307,7 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\b2b7c942-dc0c-4f4e-af65-b93b4d4854b5.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\c5827679-af64-42a0-a19a-6c04f0fc763c.jpg",
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
@@ -1245,6 +1329,12 @@
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\c5e1f914-3b2f-4b3a-b18d-11aa013a7dc9.jpeg",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
+>>>>>>> 192659af8eab27daf4637d9d68efdcd513e97dca
       "BasePath": "_content/BlogCore",
       "RelativePath": "imagenes/articulos/c5e1f914-3b2f-4b3a-b18d-11aa013a7dc9.jpeg",
       "AssetKind": "All",
@@ -1258,11 +1348,35 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\c5e1f914-3b2f-4b3a-b18d-11aa013a7dc9.jpeg"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\ce0246f7-8638-4960-b2fd-fddc7fd038b2.jpg",
+=======
+      "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\c7db256f-e996-4bf3-ae24-62f0e68b1041.jpg",
+>>>>>>> 192659af8eab27daf4637d9d68efdcd513e97dca
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+<<<<<<< HEAD
+=======
+      "RelativePath": "imagenes/articulos/c7db256f-e996-4bf3-ae24-62f0e68b1041.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\c7db256f-e996-4bf3-ae24-62f0e68b1041.jpg"
+    },
+    {
       "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\ce0246f7-8638-4960-b2fd-fddc7fd038b2.jpg",
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
       "BasePath": "_content/BlogCore",
+>>>>>>> 192659af8eab27daf4637d9d68efdcd513e97dca
       "RelativePath": "imagenes/articulos/ce0246f7-8638-4960-b2fd-fddc7fd038b2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1275,12 +1389,20 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\ce0246f7-8638-4960-b2fd-fddc7fd038b2.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\nuevo.png",
+=======
+      "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\fb80ec3d-a645-4e30-8200-194c1e4da5de.jpg",
+>>>>>>> 192659af8eab27daf4637d9d68efdcd513e97dca
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
       "BasePath": "_content/BlogCore",
+<<<<<<< HEAD
       "RelativePath": "imagenes/nuevo.png",
+=======
+      "RelativePath": "imagenes/articulos/fb80ec3d-a645-4e30-8200-194c1e4da5de.jpg",
+>>>>>>> 192659af8eab27daf4637d9d68efdcd513e97dca
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1289,6 +1411,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\imagenes\\nuevo.png"
     },
     {
@@ -1307,6 +1430,9 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagenes\\register.png"
+=======
+      "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\fb80ec3d-a645-4e30-8200-194c1e4da5de.jpg"
+>>>>>>> 192659af8eab27daf4637d9d68efdcd513e97dca
     },
     {
       "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\15bdef20-f7cc-4d52-9272-bfd04d494837.jpg",
@@ -1326,6 +1452,7 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\15bdef20-f7cc-4d52-9272-bfd04d494837.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\1a0d0c37-ccf2-4a5c-b209-924fcac110ea.png",
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
@@ -1347,6 +1474,12 @@
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\216f6910-0ca2-459c-ab7c-686069bedf5a.png",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
+>>>>>>> 192659af8eab27daf4637d9d68efdcd513e97dca
       "BasePath": "_content/BlogCore",
       "RelativePath": "imagenes/sliders/216f6910-0ca2-459c-ab7c-686069bedf5a.png",
       "AssetKind": "All",
@@ -1360,10 +1493,34 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\216f6910-0ca2-459c-ab7c-686069bedf5a.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\5df1179a-5593-4777-9887-ffe365542162.png",
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\598fea4a-a75f-491e-838c-7208b24930d1.jpg",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "imagenes/sliders/598fea4a-a75f-491e-838c-7208b24930d1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\598fea4a-a75f-491e-838c-7208b24930d1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\6548b990-0659-4827-b43e-cc394cae1a75.jpg",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
+>>>>>>> 192659af8eab27daf4637d9d68efdcd513e97dca
       "BasePath": "_content/BlogCore",
       "RelativePath": "imagenes/sliders/5df1179a-5593-4777-9887-ffe365542162.png",
       "AssetKind": "All",
@@ -1377,7 +1534,11 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\5df1179a-5593-4777-9887-ffe365542162.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\78d8465e-3466-40b6-8cd9-7f4297ddfc9d.png",
+=======
+      "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\688b564c-af19-469f-9d46-642ac4bc184e.jpg",
+>>>>>>> 192659af8eab27daf4637d9d68efdcd513e97dca
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
@@ -1411,7 +1572,11 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\8f78e558-c595-45c8-b363-2939f3b6aa80.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\ba682f73-7173-45e2-80c7-27b60bde0f30.jpg",
+=======
+      "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\980423c1-24ab-4df0-8e7f-29e94ec42f94.png",
+>>>>>>> 192659af8eab27daf4637d9d68efdcd513e97dca
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
@@ -1428,7 +1593,11 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\ba682f73-7173-45e2-80c7-27b60bde0f30.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\d265c60f-6e4e-4caa-b7e9-ecb0ad0ba5be.png",
+=======
+      "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\b4813816-aed1-4d8d-9267-3ec4dbf58bbc.png",
+>>>>>>> 192659af8eab27daf4637d9d68efdcd513e97dca
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
@@ -1445,7 +1614,11 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\d265c60f-6e4e-4caa-b7e9-ecb0ad0ba5be.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\e27958ba-371d-4a20-b6e1-1600edaa5c51.jpg",
+=======
+      "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\b60ced70-f657-46f4-852d-62c9180ab4ae.jpg",
+>>>>>>> 192659af8eab27daf4637d9d68efdcd513e97dca
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
@@ -1462,6 +1635,7 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\e27958ba-371d-4a20-b6e1-1600edaa5c51.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\ecd363e3-8da8-425f-ad5f-ef38c0748134.jpg",
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
@@ -1585,6 +1759,12 @@
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\js\\articulos.js",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
+>>>>>>> 192659af8eab27daf4637d9d68efdcd513e97dca
       "BasePath": "_content/BlogCore",
       "RelativePath": "js/articulos.js",
       "AssetKind": "All",
@@ -2616,6 +2796,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\Logo.ico",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "Logo.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Logo.ico"
     }
   ]
 }

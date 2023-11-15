@@ -36,6 +36,7 @@ C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\r
 C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.pdb
 C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.genruntimeconfig.cache
 C:\Users\ADMIN\Desktop\proyecto\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\ref\BlogCore.AccesoDatos.dll
+<<<<<<< HEAD
 C:\Users\arian\OneDrive\Documentos\4\cineCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.AccesoDatos.deps.json
 C:\Users\arian\OneDrive\Documentos\4\cineCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.AccesoDatos.runtimeconfig.json
 C:\Users\arian\OneDrive\Documentos\4\cineCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.AccesoDatos.dll
@@ -93,6 +94,27 @@ C:\Users\admin\Desktop\Final_2.0\cineCore\BlogCore.AccesoDatos\obj\Debug\net7.0\
 C:\Users\admin\Desktop\Final_2.0\cineCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.pdb
 C:\Users\admin\Desktop\Final_2.0\cineCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.genruntimeconfig.cache
 C:\Users\admin\Desktop\Final_2.0\cineCore\BlogCore.AccesoDatos\obj\Debug\net7.0\ref\BlogCore.AccesoDatos.dll
+=======
+C:\Users\Jesus\Desktop\cineCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.AccesoDatos.deps.json
+C:\Users\Jesus\Desktop\cineCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.AccesoDatos.runtimeconfig.json
+C:\Users\Jesus\Desktop\cineCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.AccesoDatos.dll
+C:\Users\Jesus\Desktop\cineCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.AccesoDatos.pdb
+C:\Users\Jesus\Desktop\cineCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.Models.dll
+C:\Users\Jesus\Desktop\cineCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.Utilidades.dll
+C:\Users\Jesus\Desktop\cineCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.Models.pdb
+C:\Users\Jesus\Desktop\cineCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.Utilidades.pdb
+C:\Users\Jesus\Desktop\cineCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Jesus\Desktop\cineCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus\Desktop\cineCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Jesus\Desktop\cineCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.AssemblyInfo.cs
+C:\Users\Jesus\Desktop\cineCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Desktop\cineCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.csproj.CopyComplete
+C:\Users\Jesus\Desktop\cineCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.dll
+C:\Users\Jesus\Desktop\cineCore\BlogCore.AccesoDatos\obj\Debug\net7.0\refint\BlogCore.AccesoDatos.dll
+C:\Users\Jesus\Desktop\cineCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.pdb
+C:\Users\Jesus\Desktop\cineCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.genruntimeconfig.cache
+C:\Users\Jesus\Desktop\cineCore\BlogCore.AccesoDatos\obj\Debug\net7.0\ref\BlogCore.AccesoDatos.dll
+>>>>>>> 192659af8eab27daf4637d9d68efdcd513e97dca
 C:\Users\enrik\Desktop\cineCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.AccesoDatos.deps.json
 C:\Users\enrik\Desktop\cineCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.AccesoDatos.runtimeconfig.json
 C:\Users\enrik\Desktop\cineCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.AccesoDatos.dll
