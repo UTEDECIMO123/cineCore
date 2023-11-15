@@ -54,3 +54,14 @@ C:\Users\admin\Desktop\Final_2.0\cineCore\BlogCore.Utilidades\obj\Debug\net7.0\B
 C:\Users\admin\Desktop\Final_2.0\cineCore\BlogCore.Utilidades\obj\Debug\net7.0\refint\BlogCore.Utilidades.dll
 C:\Users\admin\Desktop\Final_2.0\cineCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.pdb
 C:\Users\admin\Desktop\Final_2.0\cineCore\BlogCore.Utilidades\obj\Debug\net7.0\ref\BlogCore.Utilidades.dll
+C:\Users\enrik\Desktop\cineCore\BlogCore.Utilidades\bin\Debug\net7.0\BlogCore.Utilidades.deps.json
+C:\Users\enrik\Desktop\cineCore\BlogCore.Utilidades\bin\Debug\net7.0\BlogCore.Utilidades.dll
+C:\Users\enrik\Desktop\cineCore\BlogCore.Utilidades\bin\Debug\net7.0\BlogCore.Utilidades.pdb
+C:\Users\enrik\Desktop\cineCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enrik\Desktop\cineCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.AssemblyInfoInputs.cache
+C:\Users\enrik\Desktop\cineCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.AssemblyInfo.cs
+C:\Users\enrik\Desktop\cineCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\enrik\Desktop\cineCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.dll
+C:\Users\enrik\Desktop\cineCore\BlogCore.Utilidades\obj\Debug\net7.0\refint\BlogCore.Utilidades.dll
+C:\Users\enrik\Desktop\cineCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.pdb
+C:\Users\enrik\Desktop\cineCore\BlogCore.Utilidades\obj\Debug\net7.0\ref\BlogCore.Utilidades.dll

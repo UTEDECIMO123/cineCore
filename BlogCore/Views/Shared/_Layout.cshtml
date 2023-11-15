@@ -47,11 +47,20 @@
                         }
                     </ul>
 
+                    <div class="container-fluid">
+                        <form class="d-flex" role="search">
+                            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                            <button class="btn btn-outline-light" type="submit">Search</button>
+                        </form>
+                    </div>
+
+
                 </div>
 
                 <partial name="_LoginPartial" />
             </div>
         </nav>
+
         <!--AQUI VA LA VISTA PARCIAL PARA EL SLIDER-->
         <!--validamos si estamos en el inicio cargara el home y si no no lo mostrara-->
         @if (ViewBag.IsHome == true)
