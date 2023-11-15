@@ -1,331 +1,351 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlogCore.bundle.scp.css",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlogCore.bundle.scp.css",
       "PackagePath": "staticwebassets\\BlogCore.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\Logo.ico",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\Logo.ico",
       "PackagePath": "staticwebassets\\Logo.ico"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\2bc2bb0b-ca0b-4648-9f18-80e12ee27647.jpg",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\2bc2bb0b-ca0b-4648-9f18-80e12ee27647.jpg",
       "PackagePath": "staticwebassets\\imagenes\\articulos\\2bc2bb0b-ca0b-4648-9f18-80e12ee27647.jpg"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\535667ea-f6b0-4678-b100-c69fce35712b.jpg",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\2c840029-0a0e-4bb4-b231-f3cd050979c2.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\2c840029-0a0e-4bb4-b231-f3cd050979c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\535667ea-f6b0-4678-b100-c69fce35712b.jpg",
       "PackagePath": "staticwebassets\\imagenes\\articulos\\535667ea-f6b0-4678-b100-c69fce35712b.jpg"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\7735302b-2126-4b85-841b-a936d30d3262.jpg",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\5f0809a7-7b9c-47fe-bff4-c379d3371425.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\5f0809a7-7b9c-47fe-bff4-c379d3371425.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\7735302b-2126-4b85-841b-a936d30d3262.jpg",
       "PackagePath": "staticwebassets\\imagenes\\articulos\\7735302b-2126-4b85-841b-a936d30d3262.jpg"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\78a74fb4-2442-4d10-8dd0-6f5deb8542f1.jpeg",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\78a74fb4-2442-4d10-8dd0-6f5deb8542f1.jpeg",
       "PackagePath": "staticwebassets\\imagenes\\articulos\\78a74fb4-2442-4d10-8dd0-6f5deb8542f1.jpeg"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\93aec3a9-fb96-4af2-bb9b-ede908b1886f.jpeg",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\853afd07-64d0-4918-a4e7-e4ae3721ee05.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\853afd07-64d0-4918-a4e7-e4ae3721ee05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\93aec3a9-fb96-4af2-bb9b-ede908b1886f.jpeg",
       "PackagePath": "staticwebassets\\imagenes\\articulos\\93aec3a9-fb96-4af2-bb9b-ede908b1886f.jpeg"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\a4240cf8-c902-4050-bb7b-578e3ccb952c.jpg",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\a4240cf8-c902-4050-bb7b-578e3ccb952c.jpg",
       "PackagePath": "staticwebassets\\imagenes\\articulos\\a4240cf8-c902-4050-bb7b-578e3ccb952c.jpg"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\b2b7c942-dc0c-4f4e-af65-b93b4d4854b5.jpg",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\b2b7c942-dc0c-4f4e-af65-b93b4d4854b5.jpg",
       "PackagePath": "staticwebassets\\imagenes\\articulos\\b2b7c942-dc0c-4f4e-af65-b93b4d4854b5.jpg"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\c5e1f914-3b2f-4b3a-b18d-11aa013a7dc9.jpeg",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\c5e1f914-3b2f-4b3a-b18d-11aa013a7dc9.jpeg",
       "PackagePath": "staticwebassets\\imagenes\\articulos\\c5e1f914-3b2f-4b3a-b18d-11aa013a7dc9.jpeg"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\ce0246f7-8638-4960-b2fd-fddc7fd038b2.jpg",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\c7db256f-e996-4bf3-ae24-62f0e68b1041.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\c7db256f-e996-4bf3-ae24-62f0e68b1041.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\ce0246f7-8638-4960-b2fd-fddc7fd038b2.jpg",
       "PackagePath": "staticwebassets\\imagenes\\articulos\\ce0246f7-8638-4960-b2fd-fddc7fd038b2.jpg"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\15bdef20-f7cc-4d52-9272-bfd04d494837.jpg",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\articulos\\fb80ec3d-a645-4e30-8200-194c1e4da5de.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\fb80ec3d-a645-4e30-8200-194c1e4da5de.jpg"
+    },
+    {
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\15bdef20-f7cc-4d52-9272-bfd04d494837.jpg",
       "PackagePath": "staticwebassets\\imagenes\\sliders\\15bdef20-f7cc-4d52-9272-bfd04d494837.jpg"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\216f6910-0ca2-459c-ab7c-686069bedf5a.png",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\216f6910-0ca2-459c-ab7c-686069bedf5a.png",
       "PackagePath": "staticwebassets\\imagenes\\sliders\\216f6910-0ca2-459c-ab7c-686069bedf5a.png"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\598fea4a-a75f-491e-838c-7208b24930d1.jpg",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\598fea4a-a75f-491e-838c-7208b24930d1.jpg",
       "PackagePath": "staticwebassets\\imagenes\\sliders\\598fea4a-a75f-491e-838c-7208b24930d1.jpg"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\6548b990-0659-4827-b43e-cc394cae1a75.jpg",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\6548b990-0659-4827-b43e-cc394cae1a75.jpg",
       "PackagePath": "staticwebassets\\imagenes\\sliders\\6548b990-0659-4827-b43e-cc394cae1a75.jpg"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\688b564c-af19-469f-9d46-642ac4bc184e.jpg",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\688b564c-af19-469f-9d46-642ac4bc184e.jpg",
       "PackagePath": "staticwebassets\\imagenes\\sliders\\688b564c-af19-469f-9d46-642ac4bc184e.jpg"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\8f78e558-c595-45c8-b363-2939f3b6aa80.jpg",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\8f78e558-c595-45c8-b363-2939f3b6aa80.jpg",
       "PackagePath": "staticwebassets\\imagenes\\sliders\\8f78e558-c595-45c8-b363-2939f3b6aa80.jpg"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\980423c1-24ab-4df0-8e7f-29e94ec42f94.png",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\980423c1-24ab-4df0-8e7f-29e94ec42f94.png",
       "PackagePath": "staticwebassets\\imagenes\\sliders\\980423c1-24ab-4df0-8e7f-29e94ec42f94.png"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\b4813816-aed1-4d8d-9267-3ec4dbf58bbc.png",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\b4813816-aed1-4d8d-9267-3ec4dbf58bbc.png",
       "PackagePath": "staticwebassets\\imagenes\\sliders\\b4813816-aed1-4d8d-9267-3ec4dbf58bbc.png"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\b60ced70-f657-46f4-852d-62c9180ab4ae.jpg",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\b60ced70-f657-46f4-852d-62c9180ab4ae.jpg",
       "PackagePath": "staticwebassets\\imagenes\\sliders\\b60ced70-f657-46f4-852d-62c9180ab4ae.jpg"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\js\\articulos.js",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\js\\articulos.js",
       "PackagePath": "staticwebassets\\js\\articulos.js"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\js\\categoria.js",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\js\\categoria.js",
       "PackagePath": "staticwebassets\\js\\categoria.js"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\js\\slider.js",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\js\\slider.js",
       "PackagePath": "staticwebassets\\js\\slider.js"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Jesus\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
