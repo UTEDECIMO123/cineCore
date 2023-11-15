@@ -49,6 +49,14 @@
       "PackagePath": "staticwebassets\\imagenes\\articulos\\ce0246f7-8638-4960-b2fd-fddc7fd038b2.jpg"
     },
     {
+      "Id": "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore\\wwwroot\\imagenes\\nuevo.png",
+      "PackagePath": "staticwebassets\\imagenes\\nuevo.png"
+    },
+    {
+      "Id": "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore\\wwwroot\\imagenes\\register.png",
+      "PackagePath": "staticwebassets\\imagenes\\register.png"
+    },
+    {
       "Id": "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\15bdef20-f7cc-4d52-9272-bfd04d494837.jpg",
       "PackagePath": "staticwebassets\\imagenes\\sliders\\15bdef20-f7cc-4d52-9272-bfd04d494837.jpg"
     },
@@ -57,32 +65,24 @@
       "PackagePath": "staticwebassets\\imagenes\\sliders\\216f6910-0ca2-459c-ab7c-686069bedf5a.png"
     },
     {
-      "Id": "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\598fea4a-a75f-491e-838c-7208b24930d1.jpg",
-      "PackagePath": "staticwebassets\\imagenes\\sliders\\598fea4a-a75f-491e-838c-7208b24930d1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\6548b990-0659-4827-b43e-cc394cae1a75.jpg",
-      "PackagePath": "staticwebassets\\imagenes\\sliders\\6548b990-0659-4827-b43e-cc394cae1a75.jpg"
-    },
-    {
-      "Id": "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\688b564c-af19-469f-9d46-642ac4bc184e.jpg",
-      "PackagePath": "staticwebassets\\imagenes\\sliders\\688b564c-af19-469f-9d46-642ac4bc184e.jpg"
-    },
-    {
       "Id": "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\8f78e558-c595-45c8-b363-2939f3b6aa80.jpg",
       "PackagePath": "staticwebassets\\imagenes\\sliders\\8f78e558-c595-45c8-b363-2939f3b6aa80.jpg"
     },
     {
-      "Id": "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\980423c1-24ab-4df0-8e7f-29e94ec42f94.png",
-      "PackagePath": "staticwebassets\\imagenes\\sliders\\980423c1-24ab-4df0-8e7f-29e94ec42f94.png"
+      "Id": "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\Radical.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\Radical.jpg"
     },
     {
-      "Id": "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\b4813816-aed1-4d8d-9267-3ec4dbf58bbc.png",
-      "PackagePath": "staticwebassets\\imagenes\\sliders\\b4813816-aed1-4d8d-9267-3ec4dbf58bbc.png"
+      "Id": "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\The marvels.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\The marvels.jpg"
     },
     {
-      "Id": "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\b60ced70-f657-46f4-852d-62c9180ab4ae.jpg",
-      "PackagePath": "staticwebassets\\imagenes\\sliders\\b60ced70-f657-46f4-852d-62c9180ab4ae.jpg"
+      "Id": "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\ba682f73-7173-45e2-80c7-27b60bde0f30.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\ba682f73-7173-45e2-80c7-27b60bde0f30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore\\wwwroot\\imagenes\\sliders\\e27958ba-371d-4a20-b6e1-1600edaa5c51.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\e27958ba-371d-4a20-b6e1-1600edaa5c51.jpg"
     },
     {
       "Id": "C:\\Users\\arian\\OneDrive\\Documentos\\4\\cineCore\\BlogCore\\wwwroot\\js\\articulos.js",

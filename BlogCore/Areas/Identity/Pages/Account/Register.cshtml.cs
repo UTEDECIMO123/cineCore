@@ -113,7 +113,7 @@ namespace BlogCore.Areas.Identity.Pages.Account
             [Required(ErrorMessage = "la direccion es obligatorio")]
             public string Direccion { get; set; }
 
-            [Required(ErrorMessage = "La ciuad es obligatorio")]
+            [Required(ErrorMessage = "La ciudad es obligatorio")]
             public string Ciudad { get; set; }
 
             [Required(ErrorMessage = "El pais es obligatorio")]
