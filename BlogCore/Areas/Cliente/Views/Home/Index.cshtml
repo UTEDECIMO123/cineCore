@@ -5,8 +5,14 @@
 
 <div class="row fondoTitulo mt-12">
     <div class="col-sm-12">
-        <h1 class="text-center text-black bg-success py-1">Lista de peliculas </h1>
+        <h1 class="text-center text-black py-1">Lista de peliculas </h1>
     </div>
+</div>
+<div class="container-fluid">
+    <form class="d-flex" role="search">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-primary" type="submit">Search</button>
+    </form>
 </div>
 
 <!--VALIDAMOS Y VAMMOS MOSTRANDO LOS ARTCULOS QUE TENEMOS-->
@@ -25,7 +31,7 @@
                         <h5 class="text-center">@articulo.Nombre</h5>
                         <div>
 
-                            <a asp-action="Details" class="btn btn-outline-primary btnInf " style="border-radius:2px" asp-route-id="@articulo.Id">Mas Informacion</a>
+                            <center> <a asp-action="Details" class="btn btn-outline-primary btnInf " style="border-radius:2px" asp-route-id="@articulo.Id">Mas Informacion</a></center>
 
                         </div>
 
