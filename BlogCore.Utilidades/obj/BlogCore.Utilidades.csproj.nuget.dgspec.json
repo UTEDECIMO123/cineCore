@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\Final_2.0\\cineCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj": {}
+    "C:\\Users\\admin\\Documents\\cineCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\Final_2.0\\cineCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj": {
+    "C:\\Users\\admin\\Documents\\cineCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\Final_2.0\\cineCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\cineCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
         "projectName": "BlogCore.Utilidades",
-        "projectPath": "C:\\Users\\admin\\Desktop\\Final_2.0\\cineCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
+        "projectPath": "C:\\Users\\admin\\Documents\\cineCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\Final_2.0\\cineCore\\BlogCore.Utilidades\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\cineCore\\BlogCore.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

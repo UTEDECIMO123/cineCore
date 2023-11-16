@@ -13,18 +13,21 @@
 @if (Model.ListaArticulos.Count() > 0)
 {
     <hr />
-    <div class="row">
+    <div class="row row-cols-1 row-cols-md-4 g-4 py-6S">
         @foreach (var articulo in Model.ListaArticulos.OrderBy(o => o.Id))
         {
-            <div class="col-4">
-                <div class="card" style="object-fit:contain">
+            <div class="card-deck col-sm-3 ">
+                <div class="card contenedorImg">
+                    <picture>
+                        <img src="@articulo.UrlImagen" class="imgP card-img-top img-fluid">
+                    </picture>
                     <div class="card-body">
-                        <img src="@articulo.UrlImagen" class="rounded" width="100%">
-                        <h5 class="text-center m-0 mt-3">@articulo.Nombre</h5>
+                        <h5 class="text-center">@articulo.Nombre</h5>
+                        <div>
 
-                    </div>
-                    <div class="card-footer">
-                        <a asp-action="Details" class="btn btn-success w-100" style="border-radius:2px" asp-route-id="@articulo.Id">Mas Informacion</a>
+                            <a asp-action="Details" class="btn btn-outline-primary btnInf " style="border-radius:2px" asp-route-id="@articulo.Id">Mas Informacion</a>
+
+                        </div>
 
                     </div>
                 </div>

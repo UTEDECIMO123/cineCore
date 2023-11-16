@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D3g5HJ3fRAPDse4gDAkFZ2gHUrquk3+c7qXFu+dtdkFEz9i+fJo/PdpRW5p2+aotu9SZl5SX5eVAXGTjFTOA4g==",
+  "dgSpecHash": "A8r6wCOax0B230ET78OI4l5XC5YZIQV4ulaGkNtGnzIACJHeVx2woMmfBtsBk2waej7IIAkZEQ3vKO+OvGTZoQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\Final_2.0\\cineCore\\BlogCore\\BlogCore.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Documents\\cineCore\\BlogCore\\BlogCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
