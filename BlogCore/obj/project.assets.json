@@ -13371,19 +13371,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\enrik\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Documents\\cineCore\\BlogCore\\BlogCore.csproj",
+      "projectUniqueName": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\BlogCore.csproj",
       "projectName": "BlogCore",
-      "projectPath": "C:\\Users\\admin\\Documents\\cineCore\\BlogCore\\BlogCore.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Documents\\cineCore\\BlogCore\\obj\\",
+      "projectPath": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\BlogCore.csproj",
+      "packagesPath": "C:\\Users\\enrik\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\enrik\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -13397,8 +13397,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\admin\\Documents\\cineCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj": {
-              "projectPath": "C:\\Users\\admin\\Documents\\cineCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj"
+            "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj": {
+              "projectPath": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj"
             }
           }
         }
@@ -13461,7 +13461,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   },

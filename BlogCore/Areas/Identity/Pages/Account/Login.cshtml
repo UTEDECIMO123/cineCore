@@ -14,41 +14,47 @@
     </style>
 
 <div class="container-fluid ps-md-0">
-    <div class="row g-0">
-        <div class="d-none d-md-flex col-md-4 col-lg-6 bg-image"></div>
-        <div class="col-md-8 col-lg-6">
-            <div class="login d-flex align-items-center py-5 min-vh-100">
-                <div class="container">
-                    <div class="row my-auto">
-                        <div class="col-md-9 col-lg-8 mx-auto">
-                            <h3 class="login-heading mb-4">@ViewData["Title"]</h3>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 offset-lg-1">
+                <br/>
 
-                            <form id="account" method="post">
-                                <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+                <br />
+                <div class="bg-white shadow rounded">
+                    <div class="row">
+                        <div class="col-md-7 col-lg-8 pe-0">
+                            <div class="form-left h-100 py-5 px-5">
+                                <form id="account" method="post" class="row g-4">
 
-                                <div class="form-floating mb-4">
-                                    <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
-                                    <label for="inputEmail" class="form-label">Correo Electrónico</label>
-                                    <span asp-validation-for="Input.Email" class="text-danger"></span>
-                                </div>
+                                    <h3 class="mb-3" style="color:#427D9D">@ViewData["Title"]</h3>
+                                    <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
 
-                                <div class="form-floating mb-4">
-                                    <input asp-for="Input.Password" class="form-control" autocomplete="current-password" aria-required="true" placeholder="password" />
-                                    <label for="inputPassword" class="form-label">Contraseña</label>
-                                    <span asp-validation-for="Input.Password" class="text-danger"></span>
-                                </div>
-
-                                <div class="d-grid">
-                                    <button id="login-submit" class="btn btn-lg btn-primary btn-login text-uppercase fw-bold mb-2" type="submit">Acceder</button>
-                                    <div class="text-center">
-                                        <p>No tienes cuenta? <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Regístrate aquí</a></p>
+                                    <div class="col-10">
+                                        <label>Correo Electrónico<span class="text-danger">*</span></label>
+                                        <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="nombre@ejemplo.com" />
+                                        <span asp-validation-for="Input.Email" class="text-danger"></span>
                                     </div>
-                                </div>
 
-                            </form>
+                                    <div class="col-10">
+                                        <label>Contraseña<span class="text-danger">*</span></label>
+                                        <input asp-for="Input.Password" class="form-control" autocomplete="current-password" aria-required="true" placeholder="contraseña" />
+                                        <span asp-validation-for="Input.Password" class="text-danger"></span>
+                                    </div>
+
+                                    <div class="col-10">
+                                        <button id="login-submit" class="btn btn-lg btn-primary btn-login text-uppercase fw-bold mb-2" type="submit">Acceder</button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                        <div class="col-md-5 col-lg-4 ps-0 d-none d-md-block bg-image">
                         </div>
                     </div>
                 </div>
+                <p class="text-end text-secondary mt-3">No tienes cuenta? <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Regístrate aquí</a></p>
+
+
+
             </div>
         </div>
     </div>

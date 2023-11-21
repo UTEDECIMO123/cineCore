@@ -1,12 +1,12 @@
 ﻿@model BlogCore.Models.ViewModels.ArticuloVM
 
 @{
-    ViewData["Title"] = "Crear Categoría";
+    ViewData["Title"] = "Crear Película";
 }
 
 <br />
 <br />
-<h3 class="text-center">Crear un nuevo artículo</h3>
+<h3 class="text-center">Crear una nueva película</h3>
 <form method="POST" asp-action="Create" enctype="multipart/form-data">
 
     <div class="row px-2 mx-2 border">
@@ -14,7 +14,7 @@
         <div class="col-10 offset-1 mt-4">
             <div class="form-group row">
                 <div class="col-4">
-                    <label asp-for="Articulo.Nombre"></label>
+                    <label asp-for="Articulo.Nombre">Nombre de la película</label>
                 </div>
                 <div class="col-8">
                     <input asp-for="Articulo.Nombre" class="form-control" />
@@ -24,7 +24,7 @@
 
             <div class="form-group row mt-4">
                 <div class="col-4">
-                    <label asp-for="Articulo.Description"></label>
+                    <label asp-for="Articulo.Description">Descripción</label>
                 </div>
                 <div class="col-8">
                     <textarea asp-for="Articulo.Description" class="form-control" style="height:300px;"></textarea>

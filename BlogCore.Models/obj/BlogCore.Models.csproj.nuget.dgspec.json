@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Documents\\cineCore\\BlogCore.Models\\BlogCore.Models.csproj": {}
+    "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore.Models\\BlogCore.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Documents\\cineCore\\BlogCore.Models\\BlogCore.Models.csproj": {
+    "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore.Models\\BlogCore.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Documents\\cineCore\\BlogCore.Models\\BlogCore.Models.csproj",
+        "projectUniqueName": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore.Models\\BlogCore.Models.csproj",
         "projectName": "BlogCore.Models",
-        "projectPath": "C:\\Users\\admin\\Documents\\cineCore\\BlogCore.Models\\BlogCore.Models.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Documents\\cineCore\\BlogCore.Models\\obj\\",
+        "projectPath": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore.Models\\BlogCore.Models.csproj",
+        "packagesPath": "C:\\Users\\enrik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\enrik\\Desktop\\cineCore\\BlogCore.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\enrik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

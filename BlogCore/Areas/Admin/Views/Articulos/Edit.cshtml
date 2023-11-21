@@ -1,12 +1,12 @@
 ﻿@model BlogCore.Models.ViewModels.ArticuloVM
 
 @{
-    ViewData["Title"] = "Editar Aeticulo";
+    ViewData["Title"] = "Editar Película";
 }
 
 <br />
 <br />
-<h3 class="text-center">Editar artículo</h3>
+<h3 class="text-center">Editar película</h3>
 <form method="POST" asp-action="Edit" enctype="multipart/form-data">
     <!--para saber que campo estamos editando, se envia el ID articulo como campo oculto -->
     <input type="hidden" asp-for="Articulo.Id" />
@@ -15,7 +15,7 @@
         <div class="col-8 mt-4">
             <div class="form-group row">
                 <div class="col-4">
-                    <label asp-for="Articulo.Nombre"></label>
+                    <label asp-for="Articulo.Nombre">Nombre de la película</label>
                 </div>
                 <div class="col-8">
                     <input asp-for="Articulo.Nombre" class="form-control" />
@@ -25,7 +25,7 @@
 
             <div class="form-group row">
                 <div class="col-4">
-                    <label asp-for="Articulo.Description"></label>
+                    <label asp-for="Articulo.Description">Descripción</label>
                 </div>
                 <div class="col-8">
                     <textarea asp-for="Articulo.Description" class="form-control" style="height:300px;"></textarea>

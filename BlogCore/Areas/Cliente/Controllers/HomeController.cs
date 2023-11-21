@@ -18,20 +18,6 @@ namespace BlogCore.Areas.Cliente.Controllers
 
         }
 
-        public IActionResult Index()
-        {
-            //instanciamos el VM que se caba de crear
-            HomeVM homeVM = new HomeVM()
-            {
-                Slider = _contenedorTrabajo.Slider.GetAll(),
-                ListaArticulos = _contenedorTrabajo.Articulo.GetAll(),
-            };
-            //esta linea es para saber si nos encontramos en el home o no
-            ViewBag.IsHome = true;
-
-            return View(homeVM);
-        }
-
         public IActionResult Details( int Id)
         {
             var articuloDesdeDb = _contenedorTrabajo.Articulo.Get(Id);
@@ -44,6 +30,20 @@ namespace BlogCore.Areas.Cliente.Controllers
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+
+        public IActionResult Index(string searchString)
+        {
+            // Instanciamos el VM que se acaba de crear
+            HomeVM homeVM = new HomeVM()
+            {
+                Slider = _contenedorTrabajo.Slider.GetAll(),
+                ListaArticulos = _contenedorTrabajo.Articulo.GetAll(includeProperties: "Categoria").Where(a => string.IsNullOrEmpty(searchString) || a.Nombre.ToLower().Contains(searchString.ToLower())),
+            };
+
+            ViewBag.IsHome = true;
+
+            return View(homeVM);
         }
     }
 }
